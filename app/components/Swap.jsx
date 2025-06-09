@@ -100,7 +100,7 @@ const Swap = () => {
                                     <div className='flex-1 min-w-0 mr-2'>
                                         <div className='relative'>
                                             <Input
-                                                type='number'
+                                                type='text'
                                                 className='w-full border-0 bg-transparent px-0 py-0 h-12 outline-none font-medium text-muted-foreground placeholder:text-muted-foreground/50 transition-colors caret-primary focus:outline-none focus:ring-0 focus-visible:ring-0 focus-visible:ring-offset-0 shadow-none [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none'
                                                 placeholder="0x..."
                                                 style={{ fontSize: '1.2rem' }}
